@@ -7,6 +7,7 @@
 
 ## Education
 ** Community College of Philadelphia | A.S. in Biology, 3.96 GPA **
+
 **Temple University | Bachelors in Biology **
 
 
