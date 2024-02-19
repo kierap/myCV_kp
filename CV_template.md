@@ -6,7 +6,7 @@
 
 
 ## Education
-**Temple University | DEGREE**
+**Temple University | Biology **
 
 *DATES*
 - IMPORTANT INFORMATION
@@ -37,9 +37,18 @@ PROJECT DESCRIPTION
 
 ## Internships
 
-same template as work experience
+**CRISSP Summer Scholars program **
+*2021 / Children's Hospital of Pennsylvania *
+
+**Wherry Lab Summer 2022**
+**Engel Lab**
+*Temple/Coriell Institute / 2022 to present *
+ - studied chromosomal and hormonal differences in melanoma
 
 
 ## Skills
 
-- LIST RELEVANT JOB SKILLS
+- cell culture
+- mouse work
+- QPCR
+- programming experience: R and Python
